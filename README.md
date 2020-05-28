@@ -1,1 +1,1 @@
-# Linked-List-Java-App
+A java linked list menu options application
